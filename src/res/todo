@@ -1,0 +1,33 @@
+//TODO
+// @author drissi houcem eddine (drissihoucem2002@gmail.com)
+ - find out how to jump on goal pole
+
+ - goal pole animation - mario going down the bar
+
+ - animation of the bar to the door
+
+ - mushroom 1up
+
+ - sound
+
+ - music
+
+ - screen level cleared
+ - screen game cleared
+
+ - on the world map 1-1 specify the checkpoints
+
+ - When time runs out, does the game end? or mario loses only one life
+   and time comes back?
+
+ - when mario is in invincible mode, koopas is in wait state
+   eh killed or go in bowling mode (today he is killed)
+
+ - sometimes you can change the direction when the mario is
+   transforming (bug) (can't play)
+
+ - if goombas disappear going to the right, disappear or need to keep alive?
+
+ - fire in goombas got stuck in the brick when it was upside down (difficult to reproduce)
+
+ - mario was missing big crouch
